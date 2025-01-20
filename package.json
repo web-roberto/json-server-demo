@@ -2,7 +2,7 @@
   "name": "json-server-demo",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve-json-random": "json-server --watch data.js --port 4000 --routes routes.json",
