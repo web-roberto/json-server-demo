@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve-json-random": "json-server --watch data.js --port 4000 --routes routes.json",
     "serve-json": "json-server --watch db.json --port 4000",
-    "vercel-build": "json-server --watch db.json"
+    "build": "json-server --watch db.json"
 
   },
   "keywords": [],
